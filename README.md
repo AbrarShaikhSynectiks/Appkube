@@ -7,8 +7,8 @@ Date 12-02-2024.
 # Research
 
 ## Cloud Cost Optimization Reporting Module
-- *Objective:* Create a detailed report for saving money on cloud services.
-- *Focus Area:* Highlight the main savings on the dashboard.
+-  Created a detailed report for saving on cloud services.
+-  Highlight the main savings on the dashboard.
 
 ## Key Areas to Cover
 1. *Compute:*
