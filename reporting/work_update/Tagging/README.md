@@ -31,6 +31,7 @@ Tag: 1. AWS defined tags
 
     11. I did research on Services which does not support tagging. 
     12. "Worked on paper prototype. How to visualize tagging data"
+    
     13. "Soon I'll be working on adding a tag button. Users can tag resources using this button."
     14. Explored "AWS Resource Groups Tagging API. 
     15. Reaserch Links are available On the miro board. 
