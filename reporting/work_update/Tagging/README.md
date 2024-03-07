@@ -14,5 +14,25 @@ Tag: 1. AWS defined tags
      6. Services that support the Resource Groups Tagging 
      7. Auto Tagging
      8. TagOptions
-     9. Using TagOptions with AWS Organizations tag policies
+     9. Using TagOptions with AWS Organizations tag policies.
+     
+
+     DATE: 07-03-2024.
+
+    10. EC2 tags: 
+                 - AMI 
+                 - EBS Volumes
+                 - Elastic IP Address
+                 - Instance
+                 - NAT Gateway
+                 - VPC 
+                 - VPC End_points 
+                 - Subnet.
+
+    11. I did research on Services which does not support tagging. 
+    12. "Worked on paper prototype. How to visualize tagging data"
+    13. "Soon I'll be working on adding a tag button. Users can tag resources using this button."
+    14. Explored "AWS Resource Groups Tagging API. 
+    15. Reaserch Links are available On the miro board. 
+
 
