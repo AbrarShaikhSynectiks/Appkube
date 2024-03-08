@@ -31,9 +31,17 @@ Tag: 1. AWS defined tags
 
     11. I did research on Services which does not support tagging. 
     12. "Worked on paper prototype. How to visualize tagging data"
-    
+       ![alt text](<Prototype/Prototype one .jpg>)
     13. "Soon I'll be working on adding a tag button. Users can tag resources using this button."
     14. Explored "AWS Resource Groups Tagging API. 
     15. Reaserch Links are available On the miro board. 
 
+    DATE: 08-03-2024.
+
+    16. Today I have watched  tagging and scp tutorial "https://www.youtube.com/watch?v=JT9YLq3NCh4".
+    17. I did research on finops https://www.infra360.io/industries/it-telecom. 
+    18  ![alt text](image.png)
+    19. ![alt text](image-1.png)
+    20  https://www.vertice.one/product/cloud-cost-optimization. 
+    21. Research Links are available on the miro board. 
 
