@@ -45,3 +45,10 @@ Tag: 1. AWS defined tags
     20  https://www.vertice.one/product/cloud-cost-optimization. 
     21. Research Links are available on the miro board. 
 
+    DATE: 12-03-2024.
+
+    22.  I did research on Create tag button. 
+    23.  Learned about which aws service supports tagging. 
+    24. Research Links are available on the miro board. 
+
+
