@@ -50,5 +50,14 @@ Tag: 1. AWS defined tags
     22.  I did research on Create tag button. 
     23.  Learned about which aws service supports tagging. 
     24. Research Links are available on the miro board. 
+    
+    DATE: 18-06-2024.
+
+    25. I did research on the difference between tagged and untagged services. 
+    26. I worked on Ec2 internal page. 
+    27. Alert messages for tagging. 
+    28.
+    29. Research links are available on the miro board. 
+    
 
 
