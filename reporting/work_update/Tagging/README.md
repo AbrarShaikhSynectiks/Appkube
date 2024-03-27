@@ -55,9 +55,24 @@ Tag: 1. AWS defined tags
 
     25. I did research on the difference between tagged and untagged services. 
     26. I worked on Ec2 internal page. 
-    27. Alert messages for tagging. 
-    28.
-    29. Research links are available on the miro board. 
+    27. Alert messages for tagging.  
+    28. Research links are available on the miro board. 
+
+    
+    29. "I did research on Lambda function tagging. You can find more information in the AWS documentation:
+          -https://docs.aws.amazon.com/lambda/latest/dg/configuration-tags.html"
+    30. https://docs.aws.amazon.com/lambda/latest/dg/configuration-tags.html#configuration-tags-cli
+    31. https://docs.aws.amazon.com/lambda/latest/dg/configuration-tags.html#using-tags-with-the-console
+    32. Viewing tags on a function.
+    33. If you want to view the tags that are applied to a specific Lambda function, you can use either of the following AWS CLI         commands:
+        ListTags – To view a list of the tags associated with this function. 
+        GetFunction – To view a list of the tags associated with this function.
+
+    34. I worked on chargeback module use cases and algorithms.
+        https://teams.microsoft.com/l/message/19:66140e15-a263-4f76-a4bc-2a24925e08b6_66be94b9-b6b1-4288-b4d7-ddd841e3321a@unq.gbl.spaces/1711433524064?context=%7B%22contextType%22%3A%22chat%22%7D
+
+
+    
     
 
 
