@@ -17,9 +17,6 @@ I researched services that do not support tagging.
 
 I worked on a paper prototype to visualize tagging data.
 
-![Policy](images/image-1.png)
-![Policy](images/image.png)
-
 
 ### Next Day Plans
 
